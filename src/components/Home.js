@@ -58,8 +58,8 @@ export default function Home() {
         <div className="container text-center">
           <p>&copy; 2024 Quiz Master. All rights reserved.</p>
           <div>
-            <a href="#" className="mx-2" style={{textDecoration:'none'}}>Privacy Policy</a>
-            <a href="#" className="mx-2" style={{textDecoration:'none'}}>Terms of Service</a>
+            <a href="#" className="mx-2" style={{textDecoration:'none', color:'white'}}>Privacy Policy</a>
+            <a href="#"  style={{textDecoration:'none', color:'white'}}>Terms of Service</a>
           </div>
         </div>
       </footer>
